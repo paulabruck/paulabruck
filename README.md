@@ -2,5 +2,7 @@
 
 Estudiante de Ingeniería en Informática y lic. en análisis de sistemas en FIUBA. 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&theme=radical&count_private=true&show_icons=true&hide=issues" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&,Batchfile&layout=compact&theme=radical&langs_count=10)](https://github.com/paulabruck/github-readme-stats"  />
+
