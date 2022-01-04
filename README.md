@@ -2,23 +2,28 @@
 
 </div>
 <img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="300" height="200" />
-<h1 align="right">
+<br/>
 <a href="https://git.io/typing-svg">
 <br/><br/><br/>
   
+  
 <img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Paula+Brück....;Welcome+to+my...;github+profile!&center=true&size=30">
 </a>
-<br/>
+<br/><br/><br/>
+  
+---  
 
 <img align = "right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 <br/>
-  
+
 ### Buenas , soy Paula Bruck ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- - Actualemente soy estudiante de Ingeniería en Informática y 
-lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA).
+
+ - Actualemente soy estudiante de Ingeniería en Informática y lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA).
 
 <br/><br/><br/>
+
 ---
+
 <details>
 <summary><b>⚡Stats⚡</b></summary>
  
