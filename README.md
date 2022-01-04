@@ -11,7 +11,8 @@
 <br/>
 
 <img align = "right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-
+<br/>
+  
 ### Buenas , soy Paula Bruck ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  - Actualemente soy estudiante de Ingeniería en Informática y 
 lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA).
