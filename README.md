@@ -1,29 +1,42 @@
 
-<h1 align="center">
+
+</div>
+<img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="300" height="200" />
+<h1 align="right">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Paula+Brück....;Nice+to+meet+you!&center=true&size=30">
+<br/><br/><br/>
+  
+<img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Paula+Brück....;Welcome+to+my...;github+profile!&center=true&size=30">
 </a>
-</h1>
+<br/>
+
+<img align = "right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 
 ### Buenas , soy Paula Bruck ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- Actualemente soy estudiante de Ingeniería en Informática y lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA). 
+ - Actualemente soy estudiante de Ingeniería en Informática y 
+lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA).
 
+<br/><br/><br/>
 ---
+<details>
+<summary><b>⚡Stats⚡</b></summary>
+ 
 
-<p align="center">
+<br/>
+
+  
+<p align="left">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&theme=radical&count_private=true&show_icons=true&hide=issues"/>
 <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=8&theme=radical"/>
+<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 </p>
-  
 
-<p align="center">
-<a href="https://gitstats.me/paulabruck"><img src="https://img.shields.io/badge/-paulabruck-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
-</a>
-<a href="mailto:paulabruck@gmail.com"><img src="https://img.shields.io/badge/-paulabruck@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+
+</details>
 
 ---
-
+<details>
+<summary><b>⚡FIUBA⚡</b></summary>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <br>
@@ -55,3 +68,15 @@
 <a align="center" href="https://github.com/paulabruck/TP1_SALON_DE_LA_FAMA" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_SALON_DE_LA_FAMA&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TP1_Detector_personajes"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP1_Detector_personajes&theme=radical&border_color=61dafb&border_radius=14"></a>
 </div>
 <br/>
+
+</details>
+
+---
+  
+<p align="center">
+<a href="https://gitstats.me/paulabruck"><img src="https://img.shields.io/badge/-paulabruck-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
+</a>
+<a href="mailto:paulabruck@gmail.com"><img src="https://img.shields.io/badge/-paulabruck@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
