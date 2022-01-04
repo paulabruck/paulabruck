@@ -1,15 +1,17 @@
 
 
 </div>
-<img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="300" height="200" />
+<img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="350" height="250" />
 <br/>
 <a href="https://git.io/typing-svg">
 <br/><br/><br/>
   
   
-<img align="left" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;-This+is+Paula+Brück....;Welcome+to+my...;github+profile!&center=true&size=30">
+<img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Paula+Brück...;Welcome+to+my...;github+profile!&center=true&size=30">
+  
 </a>
-<br/><br/><br/>
+
+<br/><br/><br/><br/>
   
 ---  
 
