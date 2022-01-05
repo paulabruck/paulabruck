@@ -1,7 +1,7 @@
 
 
 </div>
-<img align="left" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="350" height="250" />
+<img align="left" src="https://github.com/paulabruck/paulabruck/blob/main/phineasandferb-candace.gif" alt="Coder" width="350" height="250" />
 <br/>
 <a href="https://git.io/typing-svg">
 <br/><br/><br/>
@@ -15,8 +15,10 @@
   
 ---  
 
-<img align = "right" src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img align = "right" src="https://github.com/paulabruck/paulabruck/blob/main/giphy.gif" alt="eatsleepcode" width="250" height="280" />
 <br/>
+
+
 
 ### Buenas , soy Paula Bruck ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -36,7 +38,7 @@
 <p align="left">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&theme=radical&count_private=true&show_icons=true&hide=issues"/>
 <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=8&theme=radical"/>
-<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+<img width="15%" align="right" alt="Github Image" src="https://github.com/paulabruck/paulabruck/blob/main/linux_rounded.gif" /><br>
 </p>
 
 
