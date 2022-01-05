@@ -24,7 +24,7 @@
 
  - Actualemente soy estudiante de Ingeniería en Informática y lic. en análisis de sistemas en la Universidad de Buenos Aires (FIUBA).
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 ---
 
