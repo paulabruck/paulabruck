@@ -37,7 +37,7 @@
   
 <p align="left">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&theme=radical&count_private=true&show_icons=true&hide=issues"/>
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=8&theme=radical"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=8&theme=radical&count-private=true"/>
 <img width="15%" align="right" alt="Github Image" src="https://github.com/paulabruck/paulabruck/blob/main/linux_rounded.gif" /><br>
 </p>
 
