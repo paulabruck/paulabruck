@@ -49,6 +49,14 @@
 <summary><b>⚡FIUBA⚡</b></summary>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
+
+
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/TDA_II_Redes_sociales" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA_II_Redes_sociales&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/Organizacion_Del_Computador" title="TP Fiubados"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=Organizacion_Del_Computador&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
+
 <br>
 <div width="100%" align="center">
 <a align="center" href="https://github.com/paulabruck/TDA--Teoria-De-Algoritmos-I--" title="Algorithms"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TDA--Teoria-De-Algoritmos-I--&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/TP_FIUBADOS" title="TP Fiubados"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=TP_FIUBADOS&theme=radical&border_color=61dafb&border_radius=14"></a>
