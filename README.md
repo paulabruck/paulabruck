@@ -49,6 +49,12 @@
 <summary><b>⚡FIUBA⚡</b></summary>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
+  
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/7506R-2C2022-GRUPO3" title="Inteligencia_Artificial"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=7506R-2C2022-GRUPO3&theme=radical&border_color=61dafb&border_radius=14"></a><a align="center" href="https://github.com/paulabruck/Inteligencia_Artificial" title="7506R-2C2022-GRUPO3"><img align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=Inteligencia_Artificial&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
 
 
 <br>
