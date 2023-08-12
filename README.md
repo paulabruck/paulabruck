@@ -29,6 +29,7 @@
 ---
 
 <details>
+  
 <summary><b>⚡Stats⚡</b></summary>
  
 
@@ -37,7 +38,7 @@
   
 <p align="left">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=paulabruck&theme=radical&count_private=true&show_icons=true&hide=issues"/>
-<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=8&theme=radical&count-private=true"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulabruck&layout=compact&langs_count=15&theme=radical&count-private=true&hide=jupyter%20notebook,makefile,batchfile,shell"/>
 <img width="15%" align="right" alt="Github Image" src="https://github.com/paulabruck/paulabruck/blob/main/linux_rounded.gif" /><br>
 </p>
 
@@ -46,9 +47,17 @@
 
 ---
 <details>
+  
 <summary><b>⚡FIUBA⚡</b></summary>
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/paulabruck/Desarrollo_Con_Nuevas_Tecnologias" title="Desarrollo_Con_Nuevas_Tecnologias
+"><img  align="center" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=paulabruck&repo=Desarrollo_Con_Nuevas_Tecnologias&theme=radical&border_color=61dafb&border_radius=14"></a>
+</div>
+<br/>
   
 <br>
 <div width="100%" align="center">
